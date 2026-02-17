@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/web_dashboard.jpg" width="800">
-</p>
 <h1 align="center">🚦 Automated Traffic Control System Using IoT-Based Crowd Analytics</h1>
 
 <p align="center">
