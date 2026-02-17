@@ -54,11 +54,6 @@ The system dynamically adapts traffic signals in real time and provides secure e
 
 ---
 
-## 🖥 Web Dashboard
-![Web Dashboard](images/web_dashboard.jpg)
-
----
-
 ## 🔧 Hardware Prototype
 ![Hardware](images/hardware_prototype.jpg)
 
