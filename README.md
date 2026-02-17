@@ -1,6 +1,15 @@
-# 🚦 Automated Traffic Control System Using IoT-Based Crowd Analytics
+<p align="center">
+  <img src="images/web_dashboard.jpg" width="800">
+</p>
+<h1 align="center">🚦 Automated Traffic Control System Using IoT-Based Crowd Analytics</h1>
 
-## 📖 Abstract
+<p align="center">
+  <img src="images/web_dashboard.jpg" width="800">
+</p>
+
+<p align="center">
+  ESP32 • IoT • RFID • IR Sensors • Embedded Web Dashboard
+</p>
 This project presents an intelligent IoT-enabled traffic control system developed using the ESP32 microcontroller. The system integrates IR-based vehicle detection, RFID-based emergency vehicle authentication, an OLED display, and an embedded offline web dashboard.
 
 The system dynamically adapts traffic signals in real time and provides secure emergency vehicle priority without requiring internet connectivity.
@@ -68,7 +77,7 @@ Complete project report available in:
 ## 👨‍💻 Developed By
 **V. Naresh**  
 Department of Computer Science & Engineering (AIML)  
-
+Embedded Systems & IoT Developer 
 ---
 
 ## 📌 Project Status
