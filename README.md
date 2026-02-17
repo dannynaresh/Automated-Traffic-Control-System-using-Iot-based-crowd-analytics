@@ -47,10 +47,10 @@ The system dynamically adapts traffic signals in real time and provides secure e
 ![Architecture](diagrams/architecture_diagram.jpg)
 
 ### Data Flow Diagram
-![Data Flow](diagrams/data_flow_diagram.jpg)
+![Data Flow](diagrams/data_flow_diagram.png)
 
 ### ESP32 Control Module
-![Control Module](diagrams/ESP32_Control_Module.jpg)
+![Control Module](diagrams/ESP32_Control_Module.png)
 
 ---
 
@@ -67,7 +67,7 @@ Complete project report available in:
 ---
 
 ## 👨‍💻 Developed By
-**V. Naresh**  
+**V Naresh**  
 Department of Computer Science & Engineering (AIML)  
 Embedded Systems & IoT Developer 
 ---
