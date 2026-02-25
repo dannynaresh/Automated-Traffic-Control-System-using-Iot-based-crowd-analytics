@@ -59,13 +59,6 @@ The system dynamically adapts traffic signals in real time and provides secure e
 
 ---
 
-## 📄 Documentation
-Complete project report available in:
-
-/documentation/Automated_Traffic_Control_System_Report.pdf
-
----
-
 ## 👨‍💻 Developed By
 **V Naresh**  
 Department of Computer Science & Engineering (AIML)  
